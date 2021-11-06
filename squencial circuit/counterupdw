@@ -14,3 +14,6 @@ module counter (input clk,      // Declare input port for the clock to allow cou
       out <= out + 1;  
   end  
 endmodule  
+
+# **test bench**
+
